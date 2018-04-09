@@ -1,3 +1,18 @@
 #skullpic{
-	width: 500px;
+	margin: 0px 25%;
+	width: 50%;
+}
+h1{
+	letter-spacing: 5px;
+	font-family: 'Contrail One', cursive;
+	text-align: center;
+	font-size: 50px;
+	color: #AA0000;
+}
+p{
+	font-family: 'Contrail One', cursive;
+	text-align: justify;
+}
+#ctrtxt{
+	text-align: center;
 }
